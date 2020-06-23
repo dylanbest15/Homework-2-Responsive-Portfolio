@@ -1,8 +1,45 @@
+body {
+    background-color: lightgray;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 /* NAV BAR */
+nav.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    border-bottom: 2px solid;
+    border-color: darkgray;
+}
 
-/* About Me */
+nav.navbar a.navbar-brand {
+    padding: 20px;
+    background-color: rgb(74, 79, 121);
+    color: white;
+    border-right: 1px solid;
+    border-left: 1px solid;
+    border-color: darkgray;
+}
 
-/* image */
+/* Main */
+div.col-8 div.container {
+    margin-top: 40px;
+    padding: 25px;
+    background-color: white;
+    border: 1px solid;
+    border-color: darkgray;
+}
+
+h1 {
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid;
+    border-color: darkgray;
+    color: rgb(74, 79, 121); 
+}
+
+/* About Me Headshot */
 img.headshot {
     float: left;
+    margin-right: 20px;
+    margin-left: 5px;
 }
