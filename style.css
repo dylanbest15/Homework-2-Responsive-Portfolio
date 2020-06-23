@@ -27,6 +27,7 @@ div.col-8 div.container {
     background-color: white;
     border: 1px solid;
     border-color: darkgray;
+    margin-bottom: 30px;
 }
 
 h1 {
@@ -42,4 +43,12 @@ img.headshot {
     float: left;
     margin-right: 20px;
     margin-left: 5px;
+}
+
+/* footer */
+footer.page-footer {
+    margin: 20px;
+    background-color: #f8f9fa;
+    border-top: 2px solid;
+    border-color: darkgray;
 }
