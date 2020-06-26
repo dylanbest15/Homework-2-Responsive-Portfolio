@@ -53,15 +53,17 @@ div.card {
     border-color: darkgray;
 }
 
+div.card-img-overlay {
+    padding: 0;
+}
+
 h2 {
     background-color: rgb(74, 79, 121);
     position: relative;
-    top: 135px;
+    top: 150px;
     text-align: center;
     padding: 5px;
     font-size: 16px;
-    border: 1px solid;
-    border-color: darkgray;
 }
 
 /* contact */
@@ -72,7 +74,6 @@ button.btn {
 
 /* footer */
 footer.page-footer {
-    margin: 20px;
     background-color: #f8f9fa;
     border-top: 2px solid;
     border-color: rgb(74, 79, 121);
