@@ -27,7 +27,7 @@ div.col-lg-8 div.container {
     background-color: white;
     border: 1px solid;
     border-color: darkgray;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 h1 {
@@ -43,6 +43,8 @@ img.headshot {
     float: left;
     margin-right: 20px;
     margin-left: 5px;
+    border: 3px solid;
+    border-color: darkgray;
 }
 
 /* Portfolio Cards */
