@@ -3,4 +3,4 @@ This Responsive Portfolio includes a Navigation Bar through 3 pages: About, Port
 
 ![Responsive Portfolio](screenshot-hw2.png)
 
-https://dylanbest15.github.io/Homework-2-Responsive-Portfolio/
+https://dylanbest15.github.io/Responsive-Portfolio/
