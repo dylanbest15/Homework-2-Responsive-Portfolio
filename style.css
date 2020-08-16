@@ -50,23 +50,16 @@ img.headshot {
 
 /* Portfolio Cards */
 div.card {
-    /* width: 200px; */
-    /* height: 200px; */
     margin-bottom: 40px;
-    border-color: #262626;
+    border: none;
 }
 
-div.card-img-overlay {
-    padding: 0;
-}
-
-h2 {
-    background-color: rgb(40, 130, 165);
-    position: relative;
-    top: 150px;
+div.card-header {
+    background-color: white;
+    font-weight: bold;
+    padding: 1px;
     text-align: center;
-    padding: 5px;
-    font-size: 16px;
+    color: rgb(40, 130, 165)
 }
 
 /* contact */
